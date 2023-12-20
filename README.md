@@ -1,7 +1,4 @@
-# CocoSciFinal
-
-
-Code for CocoSci Final Proj
+# Do LLMs Understand Quantifiers Like Humans Do?
 
 
 ### Abstract
