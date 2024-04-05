@@ -7,13 +7,10 @@
 This study delves into the significant role of quantifiers such as
 ”few,” ”some,” and ”many” in human cognition and language,
 drawing upon Gricean reasoning and the Rational Speech Act
-(RSA) framework. We explore how these quantifiers facili-
-tate effective information conveyance by framing communica-
-tion as a cooperative process between speakers and listeners.
+(RSA) framework. We explore how these quantifiers facilitate effective information conveyance by framing communication as a cooperative process between speakers and listeners.
 Leveraging probabilistic models (RSA) framework, we study
 how quantifiers are semantically understood. Furthermore, we
-extend our analysis to compare quantifier usage between hu-
-mans and Large Language Models (LLMs) and investigate the
+extend our analysis to compare quantifier usage between humans and Large Language Models (LLMs) and investigate the
 influence of contextual cues on quantifier selection by both
 groups. Our findings suggest that LLMs closely align with
 human cognition, particularly when less context is provided,
