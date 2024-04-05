@@ -1,4 +1,5 @@
 # Do LLMs Understand Quantifiers Like Humans Do?
+<a href='https://essamsleiman.com/images/CoCoSci_Final_proj.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 
 
 ### Abstract
